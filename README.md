@@ -1,1 +1,5 @@
 # SPRINGBT_REACT_ANGULAR_NODE_AUTH_JWT
+
+
+https://www.hackerrank.com/tests/1125as0s6sb/login?b=eyJ1c2VybmFtZSI6InJhdml0ZWphc2c1N0BnbWFpbC5jb20iLCJwYXNzd29yZCI6ImRhNWQ4YzNjIiwiaGlkZSI6dHJ1ZSwiYWNjb21tb2RhdGlvbnMiOnsiYWRkaXRpb25hbF90aW1lX3BlcmNlbnQiOjEwMH19
+
